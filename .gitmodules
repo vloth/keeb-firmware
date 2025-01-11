@@ -1,0 +1,4 @@
+[submodule "planck/qmk"]
+	url = git@github.com:qmk/qmk_firmware.git
+	branch = 0.7.5
+	path = planck/qmk
